@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BuiltByAmos-1801&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BuiltByAmos-1801&icon=3&color=3)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=BuiltByAmos-1801&icon=3&color=3](https://github.com/BuiltByAmos-1801/Website-Performance-Analyzer.git))](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
