@@ -87,10 +87,6 @@ Developing high-concurrency CRM portals and clean MVVM Jetpack Compose Android a
 <!-- ==================== ⭐ ABOUT ME ==================== -->
 ## ⚡ About Me
 
-<p align="center">
-  <img src="./images/MainAuthorAmos.png" width="130" alt="Amos Anand" />
-</p>
-
 I do not just write code; I design digital infrastructure that solves real-world bottlenecks. My journey as a **Software Engineer** is defined by a relentless pursuit of engineering excellence, performance optimization, and premium UI/UX aesthetics.
 
 My development philosophy centers on **Clean Architecture (MVVM)**, security protocols, clean code, and zero-bloat scalability. Whether it is building a high-concurrency business automation CRM, tuning a database query, or developing a custom Android utility, I ensure the solution is robust, maintainable, and premium.
@@ -98,10 +94,6 @@ My development philosophy centers on **Clean Architecture (MVVM)**, security pro
 ---
 
 ## 🏢 About Built By Amos
-
-<p align="center">
-  <img src="./images/AmosBBA.png" width="130" alt="Built By Amos Logo" />
-</p>
 
 **Built By Amos** is a digital solution architect firm dedicated to transforming business problems into scalable, production-grade applications.
 
