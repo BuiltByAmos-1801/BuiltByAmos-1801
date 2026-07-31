@@ -443,7 +443,7 @@ graph LR
 ## 🌐 System Connections &amp; Metrics
 
 <p align="center">
-  <a href="https://builtbyamos.in" target="_blank">
+  <a href="https://portfolio-nine-wine-pvfkm3d3dg.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/company/builtbyamos" target="_blank">
