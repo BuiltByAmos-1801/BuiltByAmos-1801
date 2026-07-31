@@ -237,13 +237,13 @@ We architect and deploy custom corporate software infrastructure:
 </td>
 <td width="50%" valign="top">
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">📂 Malik Website</h4>
-<p style="font-size: 12px; color: #8b949e;">Custom client corporate business website with modern sections.</p>
+<h4 style="margin-top: 0; color: #58a6ff;">💼 Amos Portfolio</h4>
+<p style="font-size: 12px; color: #8b949e;">Personal software developer portfolio showing tech works.</p>
 <div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="16" height="16" alt="Tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" alt="Next" />
 </div>
-<a href="https://github.com/BuiltByAmos-1801/MalikWebsite" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
+<a href="https://github.com/BuiltByAmos-1801/AmosPortfolio" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
 </div>
 </td>
 </tr>
@@ -261,14 +261,29 @@ We architect and deploy custom corporate software infrastructure:
 </td>
 <td width="50%" valign="top">
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">💼 Amos Portfolio</h4>
-<p style="font-size: 12px; color: #8b949e;">Personal software developer portfolio showing tech works.</p>
+<h4 style="margin-top: 0; color: #58a6ff;">🎓 Coaching Centre Demo</h4>
+<p style="font-size: 12px; color: #8b949e;">Responsive multi-page corporate coaching academy profile showcase.</p>
 <div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" alt="Next" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS" />
 </div>
-<a href="https://github.com/BuiltByAmos-1801/AmosPortfolio" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
+<a href="https://github.com/BuiltByAmos-1801/CoachingDemoByAmos" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
 </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
+<h4 style="margin-top: 0; color: #58a6ff;">🎨 Oracle Tattoo</h4>
+<p style="font-size: 12px; color: #8b949e;">Mobile catalog, booking scheduler, and visual tattoo catalog application.</p>
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
+</div>
+<a href="https://github.com/BuiltByAmos-1801/OracleTattoo" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
+</div>
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -290,15 +305,6 @@ We architect and deploy custom corporate software infrastructure:
 </div>
 </td>
 <td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🎨 Oracle Tattoo</h4>
-<p style="font-size: 12px; color: #8b949e;">Mobile catalog, booking scheduler, and visual tattoo catalog application.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/OracleTattoo" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
 </td>
 </tr>
 </table>
