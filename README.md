@@ -32,7 +32,7 @@
 </td>
 <td width="25%" valign="top">
 <strong>⏳ Coding Experience</strong><br />
-<span style="font-size: 12px; color: #8b949e;">5+ Years Professional</span>
+<span style="font-size: 12px; color: #8b949e;">2+ Years Professional</span>
 </td>
 <td width="25%" valign="top">
 <strong>📂 Repositories</strong><br />
