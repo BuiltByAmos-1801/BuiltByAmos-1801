@@ -1,13 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 30" width="100%" height="30">
   <style>
     .typing-text {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Courier New', monospace;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       font-size: 16px;
-      fill: #58a6ff;
       font-weight: bold;
       letter-spacing: 2px;
       opacity: 0;
+    }
+    .color-blue {
+      fill: #58a6ff;
       filter: drop-shadow(0 0 4px #58a6ff);
+    }
+    .color-purple {
+      fill: #7c3aed;
+      filter: drop-shadow(0 0 4px #7c3aed);
+    }
+    .color-cyan {
+      fill: #00e5ff;
+      filter: drop-shadow(0 0 4px #00e5ff);
     }
     @keyframes cycle-1 {
       0%, 30% { opacity: 1; }
@@ -27,7 +37,7 @@
     .t2 { animation: cycle-2 12s infinite; }
     .t3 { animation: cycle-3 12s infinite; }
   </style>
-  <text x="300" y="20" class="typing-text t1" text-anchor="middle">⚡ Full Stack Engineer &amp; SaaS Architect</text>
-  <text x="300" y="20" class="typing-text t2" text-anchor="middle">🚀 AI &amp; Workflow Automation Specialist</text>
-  <text x="300" y="20" class="typing-text t3" text-anchor="middle">🎨 Custom ERP panels &amp; Premium UI/UX Design</text>
+  <text x="300" y="20" class="typing-text color-blue t1" text-anchor="middle">⚡ Full Stack Architect &amp; Senior UI/UX Designer</text>
+  <text x="300" y="20" class="typing-text color-purple t2" text-anchor="middle">🚀 Custom SaaS, ERP Panels, &amp; Cloud Systems</text>
+  <text x="300" y="20" class="typing-text color-cyan t3" text-anchor="middle">🤖 AI Automation &amp; Intelligent Workflows</text>
 </svg>
