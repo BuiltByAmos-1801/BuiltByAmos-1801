@@ -26,15 +26,36 @@ Instructions to customize:
 
 <br />
 
+<h3 id="about" style="color: #f0f6fc; margin-top: 0;">⚡ About Me</h3>
+<br>
+<p style="font-size: 13px; color: #8b949e; line-height: 1.6; margin-top: 0;">
+I am a passionate Software Engineer and Digital Solution Architect. I focus on building modern digital experiences and solving real business problems. I specialize in designing scalable websites, Android applications, business automation tools, dashboards, AI-powered solutions, and custom software.
+</p>
+<p style="font-size: 13px; color: #8b949e; line-height: 1.6;">
+I enjoy learning new technologies, contributing to open-source, and building products that improve people's lives. In my projects, I focus heavily on <b>performance, clean architecture (MVVM), security, maintainability, and beautiful UI/UX</b>.
+</p>
+
+<h3 id="company" style="color: #f0f6fc;">🏢 About Built By Amos</h3>
+<p style="font-size: 13px; color: #8b949e; line-height: 1.6;">
+<b>Built By Amos</b> is a dedicated software development and digital solutions agency. We deliver high-fidelity web applications, responsive business management dashboards, ERP platforms, and custom Android apps.
+</p>
+
+<h3 id="skills" style="color: #f0f6fc;">📊 Core Capabilities Monitor</h3>
+<p align="center" style="margin: 0;">
+<br>
+<img src="./assets/skills.svg" width="100%" alt="Skills Progress Monitor" />
+</p>
+
+<h3 style="color: #f0f6fc;">🎯 Current Objectives</h3>
+<ul style="font-size: 12.5px; color: #8b949e; line-height: 1.7; padding-left: 20px;">
+<li>🚀 <b>Building:</b> High-concurrency custom CRM/ERP platforms.</li>
+<li>🧠 <b>Learning:</b> Neural-Network vector pipelines and LLM fine-tuning.</li>
+<li>⚙️ <b>Open Source:</b> Contributing to vector DB optimization tooling.</li>
+</ul>
+
 <!-- ==================== MAIN DASHBOARD CONSOLE ==================== -->
-<table border="0" cellpadding="0" cellspacing="10" width="100%" align="center">
-<tr>
-<td width="28%" valign="top">
 
 <!-- Developer Info Card -->
-<table border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #161b22; border: 1.5px solid #30363d; border-radius: 16px; color: #f0f6fc;">
-<tr>
-<td align="center">
 <img src="./assets/logo.svg" width="60" alt="Built By Amos Logo" style="margin-bottom: 10px;" />
 <h4 style="margin: 0; color: #58a6ff; font-family: sans-serif;">Built By Amos</h4>
 <span style="font-size: 11px; color: #8b949e;">Digital Solution Architect</span>
@@ -43,9 +64,6 @@ Instructions to customize:
 <p style="font-size: 13px; margin: 5px 0; text-align: left;"><b>Status:</b> <span style="color: #39d353;">● Active (Online)</span></p>
 <p style="font-size: 13px; margin: 5px 0; text-align: left;"><b>Loc:</b> Ranchi, Jharkhand, IN</p>
 <p style="font-size: 13px; margin: 5px 0; text-align: left;"><b>Scope:</b> Full Stack &amp; Mobile</p>
-</td>
-</tr>
-</table>
 
 <br />
 
@@ -81,49 +99,6 @@ Instructions to customize:
 </tr>
 </table>
 
-</td>
-<td width="44%" valign="top">
-
-<h3 id="about" style="color: #f0f6fc; margin-top: 0;">⚡ About Me</h3>
-<p style="font-size: 13px; color: #8b949e; line-height: 1.6; margin-top: 0;">
-I am a passionate Software Engineer and Digital Solution Architect. I focus on building modern digital experiences and solving real business problems. I specialize in designing scalable websites, Android applications, business automation tools, dashboards, AI-powered solutions, and custom software.
-</p>
-<p style="font-size: 13px; color: #8b949e; line-height: 1.6;">
-I enjoy learning new technologies, contributing to open-source, and building products that improve people's lives. In my projects, I focus heavily on <b>performance, clean architecture (MVVM), security, maintainability, and beautiful UI/UX</b>.
-</p>
-
-<h3 id="company" style="color: #f0f6fc;">🏢 About Built By Amos</h3>
-<p style="font-size: 13px; color: #8b949e; line-height: 1.6;">
-<b>Built By Amos</b> is a dedicated software development and digital solutions agency. We deliver high-fidelity web applications, responsive business management dashboards, ERP platforms, and custom Android apps.
-</p>
-
-<h3 id="skills" style="color: #f0f6fc;">📊 Core Capabilities Monitor</h3>
-<p align="center" style="margin: 0;">
-<img src="./assets/skills.svg" width="100%" alt="Skills Progress Monitor" />
-</p>
-
-<h3 style="color: #f0f6fc;">🎯 Current Objectives</h3>
-<ul style="font-size: 12.5px; color: #8b949e; line-height: 1.7; padding-left: 20px;">
-<li>🚀 <b>Building:</b> High-concurrency custom CRM/ERP platforms.</li>
-<li>🧠 <b>Learning:</b> Neural-Network vector pipelines and LLM fine-tuning.</li>
-<li>⚙️ <b>Open Source:</b> Contributing to vector DB optimization tooling.</li>
-</ul>
-
-</td>
-<td width="28%" valign="top">
-
-<!-- Git Stats Console -->
-<table border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #161b22; border: 1.5px solid #30363d; border-radius: 16px; color: #f0f6fc;">
-<tr>
-<td align="center">
-<h4 style="margin: 0 0 10px 0; color: #58a6ff; font-family: sans-serif;">📈 Performance stats</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=BuiltByAmos-1801&show_icons=true&theme=radical&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=f0f6fc&icon_color=00e5ff" width="100%" alt="GitHub Stats" style="margin-bottom: 8px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiltByAmos-1801&theme=radical&hide_border=true&background=161b22&ring=58a6ff&fire=00e5ff&currStreakNum=f0f6fc&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="100%" alt="Streak tracker" style="margin-bottom: 8px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByAmos-1801&layout=compact&theme=radical&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=f0f6fc&icon_color=00e5ff" width="100%" alt="Top languages" />
-</td>
-</tr>
-</table>
-
 <br />
 
 <!-- Visitor Monitor badge -->
@@ -136,16 +111,24 @@ I enjoy learning new technologies, contributing to open-source, and building pro
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
-<!-- ==================== DOWNSIDE PANELS (100% WIDTH) ==================== -->
-
 <br />
 <p align="center">
 <img src="./assets/divider.svg" width="100%" alt="Horizontal divider" />
 </p>
+
+<!-- Performance stats -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #161b22; border: 1.5px solid #30363d; border-radius: 16px; color: #f0f6fc;">
+<tr>
+<td align="center">
+<h4 style="margin: 0 0 10px 0; color: #58a6ff; font-family: sans-serif;">📈 Performance stats</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=BuiltByAmos-1801&show_icons=true&theme=radical&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=f0f6fc&icon_color=00e5ff" width="100%" alt="GitHub Stats" style="margin-bottom: 8px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiltByAmos-1801&theme=radical&hide_border=true&background=161b22&ring=58a6ff&fire=00e5ff&currStreakNum=f0f6fc&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="100%" alt="Streak tracker" style="margin-bottom: 8px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByAmos-1801&layout=compact&theme=radical&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=f0f6fc&icon_color=00e5ff" width="100%" alt="Top languages" />
+</td>
+</tr>
+</table>
+
+<br />
 
 <!-- ==================== WIDGET: THE SERVICE LIST ==================== -->
 <h3 style="color: #f0f6fc;">💼 Services &amp; Solution Offerings</h3>
@@ -173,43 +156,42 @@ I enjoy learning new technologies, contributing to open-source, and building pro
 <!-- ==================== WIDGET: TECH ARSENAL ==================== -->
 <h3 id="tech" style="color: #f0f6fc;">🛠️ Tech Stack registry</h3>
 
-<table width="100%">
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="25%" valign="top">
-<strong>💻 Frontend</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• HTML5 / CSS3 / JavaScript<br />
-• TypeScript / React<br />
-• Next.js / Tailwind CSS<br />
-• Bootstrap
-</span>
+<strong>💻 Frontend</strong><br /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" height="26" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" alt="JS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" alt="TS" /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26" height="26" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" height="26" alt="Tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26" height="26" alt="Bootstrap" />
 </td>
 <td width="25%" valign="top">
-<strong>⚙️ Backend &amp; DB</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Node.js / Express.js<br />
-• PHP / REST APIs<br />
-• PostgreSQL / MySQL<br />
-• MongoDB / Firebase
-</span>
+<strong>⚙️ Backend &amp; DB</strong><br /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" alt="Node" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26" height="26" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26" height="26" alt="PHP" /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" height="26" alt="Postgre" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26" height="26" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" height="26" alt="Mongo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="26" height="26" alt="Firebase" />
 </td>
 <td width="25%" valign="top">
-<strong>📱 Android</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Kotlin / Java<br />
-• Jetpack Compose<br />
-• Material Design<br />
-• MVVM / Clean Architecture
-</span>
+<strong>📱 Android</strong><br /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="26" height="26" alt="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26" height="26" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="26" height="26" alt="Android" />
 </td>
 <td width="25%" valign="top">
-<strong>🛠️ Tooling &amp; OS</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Android Studio / VS Code<br />
-• Git / GitHub Console<br />
-• Figma / Postman API<br />
-• Linux / Windows
-</span>
+<strong>🛠️ Tools &amp; OS</strong><br /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26" height="26" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" height="26" alt="GitHub" /><br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26" height="26" alt="Linux" />
 </td>
 </tr>
 </table>
@@ -225,8 +207,11 @@ I enjoy learning new technologies, contributing to open-source, and building pro
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 180px;">
 <h4 style="margin-top: 0; color: #58a6ff;">🏢 Built By Amos Website</h4>
 <p style="font-size: 12px; color: #8b949e;">The main agency site built with raw performance and modern SEO standards.</p>
-<span style="font-size: 11px; color: #8b949e;"><b>Tech:</b> HTML5, CSS3, ES6 JS, Canonical SEO</span>
-<br /><br />
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JS" />
+</div>
 <a href="https://github.com/BuiltByAmos-1801/BuiltByAmosMain" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 Source Code</a>
 </div>
 </td>
@@ -234,8 +219,11 @@ I enjoy learning new technologies, contributing to open-source, and building pro
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 180px;">
 <h4 style="margin-top: 0; color: #58a6ff;">📶 WiFi Camera Scanner Pro</h4>
 <p style="font-size: 12px; color: #8b949e;">Advanced security auditing application designed to scan networks for IP camera vulnerabilities.</p>
-<span style="font-size: 11px; color: #8b949e;"><b>Tech:</b> Kotlin, Android SDK, Network APIs</span>
-<br /><br />
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16" alt="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
+</div>
 <a href="https://github.com/BuiltByAmos-1801/WiFi-Camera-Scanner-Pro" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 Source Code</a>
 </div>
 </td>
@@ -245,8 +233,11 @@ I enjoy learning new technologies, contributing to open-source, and building pro
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 180px;">
 <h4 style="margin-top: 0; color: #58a6ff;">🎬 AI Movie Recommender System</h4>
 <p style="font-size: 12px; color: #8b949e;">Vector database-driven movie recommendation application utilizing Gemini AI APIs.</p>
-<span style="font-size: 11px; color: #8b949e;"><b>Tech:</b> Python, React, Postgres Vector DB</span>
-<br /><br />
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" alt="Postgre" />
+</div>
 <a href="https://github.com/BuiltByAmos-1801/Ai-Movie-recommendations-system" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 Source Code</a>
 </div>
 </td>
@@ -254,8 +245,11 @@ I enjoy learning new technologies, contributing to open-source, and building pro
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 180px;">
 <h4 style="margin-top: 0; color: #58a6ff;">💼 Business Management System</h4>
 <p style="font-size: 12px; color: #8b949e;">Complete CRM &amp; ERP panel managing inventory, invoices, and clients.</p>
-<span style="font-size: 11px; color: #8b949e;"><b>Tech:</b> Node.js, Express, MySQL Database</span>
-<br /><br />
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="16" alt="Node" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16" height="16" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" alt="MySQL" />
+</div>
 <a href="#" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 Private Project</a>
 </div>
 </td>
