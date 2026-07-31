@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Built By Amos Banner" />
+  <img src="./banner.svg" width="100%" alt="Built By Amos Banner" /><br />
+  <img src="./typing.svg" width="600" alt="Cycling Service Labels" />
 </p>
 
 <br />

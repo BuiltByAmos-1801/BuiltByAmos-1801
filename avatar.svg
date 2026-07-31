@@ -29,12 +29,20 @@
   <circle cx="100" cy="100" r="92" fill="#0f091f" />
 
   <!-- Outer Neon Rings -->
-  <!-- Purple Ring -->
-  <circle cx="100" cy="100" r="96" fill="none" stroke="#9d00ff" stroke-width="2.5" opacity="0.6" filter="url(#glow-pink)" />
-  <!-- Pink Ring -->
-  <circle cx="100" cy="100" r="92" fill="none" stroke="#ff007f" stroke-width="3" filter="url(#glow-pink)" />
-  <!-- Cyan Inner Ring -->
-  <circle cx="100" cy="100" r="88" fill="none" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow-cyan)" />
+  <!-- Purple Ring (Rotating Clockwise) -->
+  <circle cx="100" cy="100" r="96" fill="none" stroke="#9d00ff" stroke-width="2" stroke-dasharray="30 15 10 15" opacity="0.7" filter="url(#glow-pink)">
+    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="15s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Pink Ring (Rotating Counter-Clockwise) -->
+  <circle cx="100" cy="100" r="92" fill="none" stroke="#ff007f" stroke-width="2.5" stroke-dasharray="20 10" filter="url(#glow-pink)">
+    <animateTransform attributeName="transform" type="rotate" from="360 100 100" to="0 100 100" dur="10s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Cyan Inner Ring (Rotating Clockwise slowly) -->
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#00f0ff" stroke-width="1.5" stroke-dasharray="10 5 15 5" filter="url(#glow-cyan)">
+    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="25s" repeatCount="indefinite" />
+  </circle>
 
   <!-- Clipped User Avatar Image -->
   <image href="./images/AmosBBA.png" x="12" y="12" width="176" height="176" clip-path="url(#circle-clip)" />

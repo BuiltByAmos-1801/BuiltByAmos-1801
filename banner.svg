@@ -1,4 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="100%" height="100%">
+  <style>
+    /* Star Twinkling Animation */
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1.0; }
+    }
+    .s1 { animation: twinkle 2s infinite ease-in-out; }
+    .s2 { animation: twinkle 3.5s infinite ease-in-out; }
+    .s3 { animation: twinkle 1.5s infinite ease-in-out; }
+    .s4 { animation: twinkle 2.8s infinite ease-in-out; }
+
+    /* Neon Title Pulsing Glow & Flickering */
+    @keyframes neon-pulse {
+      0%, 100% {
+        text-shadow: 0 0 2px #ff007f, 0 0 6px #ff007f, 0 0 10px #ff007f;
+      }
+      50% {
+        text-shadow: 0 0 4px #ff007f, 0 0 12px #ff007f, 0 0 22px #ff007f;
+      }
+    }
+    @keyframes neon-flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
+      20%, 24%, 55% { opacity: 0.85; }
+    }
+    .neon-title {
+      animation: neon-pulse 3s infinite alternate, neon-flicker 10s infinite;
+    }
+
+    /* Subtitle Neon Glow */
+    @keyframes cyan-pulse {
+      0%, 100% {
+        text-shadow: 0 0 1px #00f0ff, 0 0 4px #00f0ff;
+      }
+      50% {
+        text-shadow: 0 0 3px #00f0ff, 0 0 8px #00f0ff;
+      }
+    }
+    .neon-sub {
+      animation: cyan-pulse 2.5s infinite alternate;
+    }
+  </style>
+
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -66,19 +108,21 @@
   <!-- Background -->
   <rect width="800" height="260" fill="url(#bg-grad)" />
 
-  <!-- Stars -->
+  <!-- Stars with Twinkle Animation Classes -->
   <g fill="#ffffff" opacity="0.6">
-    <circle cx="50" cy="30" r="1"/>
-    <circle cx="120" cy="70" r="1.5" opacity="0.8"/>
-    <circle cx="210" cy="40" r="1"/>
-    <circle cx="340" cy="65" r="1" opacity="0.4"/>
-    <circle cx="430" cy="45" r="1.5" opacity="0.9"/>
-    <circle cx="90" cy="120" r="0.8" opacity="0.5"/>
+    <circle cx="50" cy="30" r="1" class="s1" />
+    <circle cx="120" cy="70" r="1.5" class="s2" />
+    <circle cx="210" cy="40" r="1" class="s3" />
+    <circle cx="340" cy="65" r="1" class="s4" />
+    <circle cx="430" cy="45" r="1.5" class="s1" />
+    <circle cx="90" cy="120" r="0.8" class="s3" />
   </g>
 
-  <!-- Glowing Sun (Shifted slightly left to balance text space) -->
+  <!-- Glowing Sun (Pulsing Radius using SMIL) -->
   <g>
-    <circle cx="260" cy="130" r="60" fill="url(#sun-grad)" filter="url(#glow-sun)" opacity="0.9" />
+    <circle cx="260" cy="130" r="60" fill="url(#sun-grad)" filter="url(#glow-sun)" opacity="0.9">
+      <animate attributeName="r" values="58;62;58" dur="4s" repeatCount="indefinite" />
+    </circle>
     <!-- Sun Horizon Crop Lines -->
     <rect x="195" y="132" width="130" height="3" fill="#0f091f" />
     <rect x="195" y="141" width="130" height="4" fill="#0f091f" />
@@ -99,7 +143,7 @@
     <!-- Horizon baseline -->
     <line x1="0" y1="180" x2="800" y2="180" stroke="#ff007f" stroke-width="2" />
     
-    <!-- Perspective vertical lines (radiating from horizon) -->
+    <!-- Perspective vertical lines -->
     <line x1="260" y1="180" x2="-200" y2="260" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow-cyan)" />
     <line x1="260" y1="180" x2="0" y2="260" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow-cyan)" />
     <line x1="260" y1="180" x2="150" y2="260" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow-cyan)" />
@@ -124,6 +168,7 @@
   <!-- Text Content (Left aligned & Centered on the left half x=230) -->
   <!-- MAIN TITLE (BUILT BY AMOS) -->
   <text x="240" y="85" 
+        class="neon-title"
         font-family="'Montserrat', 'Century Gothic', 'Futura', sans-serif" 
         font-weight="900" 
         font-size="38" 
@@ -136,6 +181,7 @@
 
   <!-- SUBTITLE (PREMIUM SOFTWARE AGENCY) -->
   <text x="240" y="115" 
+        class="neon-sub"
         font-family="'Courier New', Courier, monospace" 
         font-weight="bold" 
         font-size="12.5" 
