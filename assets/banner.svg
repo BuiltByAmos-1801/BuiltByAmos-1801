@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="100%" height="100%">
+  <style>
+    /* Floating shapes / nodes animation */
+    @keyframes float-slow {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-10px) rotate(180deg); }
+    }
+    @keyframes float-medium {
+      0%, 100% { transform: translateY(0px) translateX(0px); }
+      50% { transform: translateY(-15px) translateX(8px); }
+    }
+    @keyframes pulse-accent {
+      0%, 100% { filter: drop-shadow(0 0 3px #58a6ff); opacity: 0.8; }
+      50% { filter: drop-shadow(0 0 10px #7c3aed) drop-shadow(0 0 20px #00e5ff); opacity: 1; }
+    }
+    .floating-node-1 {
+      animation: float-slow 8s infinite ease-in-out;
+      transform-origin: 100px 100px;
+    }
+    .floating-node-2 {
+      animation: float-medium 6s infinite ease-in-out;
+    }
+    .glow-blue {
+      animation: pulse-accent 4s infinite alternate;
+    }
+  </style>
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+
+    <!-- Glassmorphic Card Background -->
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#161b22" stop-opacity="0.3" />
+    </linearGradient>
+
+    <!-- Neon Accent Gradients (Blue-Purple-Cyan) -->
+    <linearGradient id="luxury-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="50%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#00e5ff" />
+    </linearGradient>
+
+    <!-- Glass Circle Clip Path for Avatar -->
+    <clipPath id="avatar-clip">
+      <circle cx="650" cy="130" r="70" />
+    </clipPath>
+
+    <!-- Filters for Neon Glow -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur1" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="800" height="260" fill="url(#bg-grad)" />
+
+  <!-- Network grid lines in background -->
+  <g stroke="#161b22" stroke-width="1.5" opacity="0.6">
+    <line x1="50" y1="50" x2="200" y2="120" />
+    <line x1="200" y1="120" x2="120" y2="220" />
+    <line x1="200" y1="120" x2="350" y2="80" />
+    <line x1="350" y1="80" x2="480" y2="180" />
+    <line x1="480" y1="180" x2="600" y2="80" />
+  </g>
+
+  <!-- Floating Glowing Blue Nodes -->
+  <circle cx="50" cy="50" r="4" fill="#58a6ff" class="floating-node-1 glow-blue" />
+  <circle cx="200" cy="120" r="5" fill="#00e5ff" class="floating-node-2 glow-blue" />
+  <circle cx="120" cy="220" r="3.5" fill="#7c3aed" class="floating-node-1 glow-blue" />
+  <circle cx="350" cy="80" r="6" fill="#00e5ff" class="floating-node-2 glow-blue" />
+  <circle cx="480" cy="180" r="4" fill="#58a6ff" class="floating-node-1 glow-blue" />
+
+  <!-- Glassmorphic Hero Container Box -->
+  <rect x="30" y="25" width="460" height="210" rx="20" fill="url(#card-grad)" stroke="#161b22" stroke-width="2" />
+  <rect x="31" y="26" width="458" height="208" rx="19" fill="none" stroke="url(#luxury-grad)" stroke-width="1" opacity="0.2" />
+
+  <!-- Main Hero Titles inside Glass Container -->
+  <!-- Header Tag -->
+  <rect x="60" y="55" width="130" height="24" rx="12" fill="#1f2937" opacity="0.8" />
+  <text x="125" y="71" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#00e5ff" text-anchor="middle" letter-spacing="1">DASHBOARD v3.0</text>
+
+  <!-- Title: BUILT BY AMOS -->
+  <text x="60" y="125" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-weight="900" 
+        font-size="34" 
+        fill="#f0f6fc"
+        letter-spacing="1">BUILT BY AMOS</text>
+
+  <!-- Subtitle -->
+  <text x="60" y="158" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-weight="bold" 
+        font-size="13" 
+        fill="#8b949e" 
+        letter-spacing="2">PREMIUM SOFTWARE ARCHITECTURE</text>
+
+  <text x="60" y="195" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="11" 
+        fill="#58a6ff" 
+        letter-spacing="3" 
+        font-weight="bold">SAAS • AI AUTOMATIONS • WEB &amp; MOBILE APPS</text>
+
+  <!-- Glassmorphic Avatar Panel (Right Side) -->
+  <g>
+    <!-- Outer Glow ring -->
+    <circle cx="650" cy="130" r="77" fill="none" stroke="url(#luxury-grad)" stroke-width="3" filter="url(#neon-glow)" opacity="0.85" />
+    <!-- Secondary inner ring -->
+    <circle cx="650" cy="130" r="73" fill="none" stroke="#161b22" stroke-width="5" />
+    
+    <!-- User avatar image clipped -->
+    <image href="../images/MainAuthorAmos.png" x="575" y="55" width="150" height="150" clip-path="url(#avatar-clip)" preserveAspectRatio="xMidYMid slice" />
+    
+    <!-- Small Active indicator badge -->
+    <circle cx="712" cy="178" r="10" fill="#0d1117" />
+    <circle cx="712" cy="178" r="7" fill="#39d353" />
+  </g>
+</svg>
