@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="100%">
+  <defs>
+    <!-- Background Card Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Wave Clip Path -->
+    <clipPath id="footer-clip">
+      <rect width="800" height="120" />
+    </clipPath>
+  </defs>
+
+  <!-- Flowing Wave 1 (Neon Blue) -->
+  <g clip-path="url(#footer-clip)">
+    <path d="M 0 70 Q 200 40, 400 70 T 800 70 T 1200 70 T 1600 70 L 1600 120 L 0 120 Z" fill="#58a6ff" opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="6s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Flowing Wave 2 (Cyan) -->
+    <path d="M 0 75 Q 200 100, 400 75 T 800 75 T 1200 75 T 1600 75 L 1600 120 L 0 120 Z" fill="#00f0ff" opacity="0.15">
+      <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="8s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Subtle overlay gradient to blend with body -->
+  <rect width="800" height="60" fill="url(#bg-grad)" />
+
+  <!-- Center Text -->
+  <text x="400" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#8b949e" text-anchor="middle" letter-spacing="1">Thanks for Visiting! 🚀</text>
+  <text x="400" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#58a6ff" text-anchor="middle" letter-spacing="2" font-weight="bold">MADE WITH ❤️ BY BUILT BY AMOS</text>
+</svg>

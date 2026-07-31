@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 30" width="100%" height="30">
   <style>
     .typing-text {
-      font-family: 'Courier New', Courier, monospace;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Courier New', monospace;
       font-size: 16px;
-      fill: #00f0ff;
+      fill: #58a6ff;
       font-weight: bold;
       letter-spacing: 2px;
       opacity: 0;
-      filter: drop-shadow(0 0 4px #00f0ff);
+      filter: drop-shadow(0 0 4px #58a6ff);
     }
     @keyframes cycle-1 {
       0%, 30% { opacity: 1; }
@@ -27,7 +27,7 @@
     .t2 { animation: cycle-2 12s infinite; }
     .t3 { animation: cycle-3 12s infinite; }
   </style>
-  <text x="300" y="20" class="typing-text t1" text-anchor="middle">⚡ Premium Software &amp; Web Engineering Agency</text>
-  <text x="300" y="20" class="typing-text t2" text-anchor="middle">🚀 Custom SaaS &amp; Business Intelligence Systems</text>
-  <text x="300" y="20" class="typing-text t3" text-anchor="middle">🤖 AI Integrations &amp; Automation Workflows</text>
+  <text x="300" y="20" class="typing-text t1" text-anchor="middle">⚡ Full Stack Engineer &amp; SaaS Architect</text>
+  <text x="300" y="20" class="typing-text t2" text-anchor="middle">🚀 AI &amp; Workflow Automation Specialist</text>
+  <text x="300" y="20" class="typing-text t3" text-anchor="middle">🎨 Custom ERP panels &amp; Premium UI/UX Design</text>
 </svg>
