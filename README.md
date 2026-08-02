@@ -187,6 +187,7 @@ We architect and deploy custom corporate software infrastructure:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" height="26" alt="Tailwind" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26" height="26" alt="Bootstrap" />
 </td>
+          <br>
 <td width="25%" valign="top">
 <strong>⚙️ Backend &amp; DB</strong><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" alt="Node" />
@@ -197,6 +198,7 @@ We architect and deploy custom corporate software infrastructure:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" height="26" alt="Mongo" /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="26" height="26" alt="Firebase" />
 </td>
+          <br>
 <td width="25%" valign="top">
 <strong>📱 Android</strong><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="26" height="26" alt="Kotlin" />
@@ -204,6 +206,7 @@ We architect and deploy custom corporate software infrastructure:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="26" height="26" alt="Android" /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" alt="Python" />
 </td>
+          <br>
 <td width="25%" valign="top">
 <strong>🛠️ Tools &amp; OS</strong><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" alt="VS" />
