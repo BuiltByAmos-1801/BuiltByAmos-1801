@@ -187,7 +187,6 @@ We architect and deploy custom corporate software infrastructure:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" height="26" alt="Tailwind" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26" height="26" alt="Bootstrap" />
 </td>
-          <br>
 <td width="25%" valign="top">
 <strong>⚙️ Backend &amp; DB</strong><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" alt="Node" />
@@ -198,7 +197,6 @@ We architect and deploy custom corporate software infrastructure:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" height="26" alt="Mongo" /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="26" height="26" alt="Firebase" />
 </td>
-          <br>
 <td width="25%" valign="top">
 <strong>📱 Android</strong><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="26" height="26" alt="Kotlin" />
@@ -206,7 +204,6 @@ We architect and deploy custom corporate software infrastructure:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="26" height="26" alt="Android" /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" alt="Python" />
 </td>
-          <br>
 <td width="25%" valign="top">
 <strong>🛠️ Tools &amp; OS</strong><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" alt="VS" />
@@ -253,17 +250,6 @@ We architect and deploy custom corporate software infrastructure:
 <tr>
 <td width="50%" valign="top">
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🚘 Shivam Automobile</h4>
-<p style="font-size: 12px; color: #8b949e;">Local retail business service catalogue platform with inventory viewer.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="16" height="16" alt="Bootstrap" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/ShivamAutomobile" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
 <h4 style="margin-top: 0; color: #58a6ff;">🎓 Coaching Centre Demo</h4>
 <p style="font-size: 12px; color: #8b949e;">Responsive multi-page corporate coaching academy profile showcase.</p>
 <div style="margin: 8px 0;">
@@ -273,8 +259,6 @@ We architect and deploy custom corporate software infrastructure:
 <a href="https://github.com/BuiltByAmos-1801/CoachingDemoByAmos" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
 </div>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
 <h4 style="margin-top: 0; color: #58a6ff;">🎨 Oracle Tattoo</h4>
@@ -286,7 +270,49 @@ We architect and deploy custom corporate software infrastructure:
 <a href="https://github.com/BuiltByAmos-1801/OracleTattoo" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
 </div>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
+<h4 style="margin-top: 0; color: #58a6ff;">🏢 DISOM</h4>
+<p style="font-size: 12px; color: #8b949e;">Web project built with HTML.</p>
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML" />
+</div>
+<a href="https://github.com/BuiltByAmos-1801/DISOM" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
+</div>
+</td>
+<td width="50%" valign="top">
+<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
+<h4 style="margin-top: 0; color: #58a6ff;">🚪 FindMyDoor</h4>
+<p style="font-size: 12px; color: #8b949e;">Web platform built with TypeScript. Private project, details available on request.</p>
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
+</div>
+<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
+<h4 style="margin-top: 0; color: #58a6ff;">⚙️ MG Engine</h4>
+<p style="font-size: 12px; color: #8b949e;">JavaScript engine project. Private project, details available on request.</p>
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JS" />
+</div>
+<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
+</div>
+</td>
+<td width="50%" valign="top">
+<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
+<h4 style="margin-top: 0; color: #58a6ff;">🧩 MG Alpha</h4>
+<p style="font-size: 12px; color: #8b949e;">TypeScript project. Private project, details available on request.</p>
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
+</div>
+<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
+</div>
 </td>
 </tr>
 </table>
@@ -308,6 +334,15 @@ We architect and deploy custom corporate software infrastructure:
 </div>
 </td>
 <td width="50%" valign="top">
+<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
+<h4 style="margin-top: 0; color: #58a6ff;">🅰️ Alpha App</h4>
+<p style="font-size: 12px; color: #8b949e;">Android app built with Kotlin. Private project, details available on request.</p>
+<div style="margin: 8px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16" alt="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
+</div>
+<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
+</div>
 </td>
 </tr>
 </table>
@@ -401,77 +436,6 @@ graph LR
   style B fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
   style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#f0f6fc
   style D fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
-  style E fill:#161b22,stroke:#39d353,stroke-width:2px,color:#f0f6fc
+  style E fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
   style F fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
 ```
-
----
-
-<!-- ==================== ⭐ CURRENT OBJECTIVES ==================== -->
-## 🎯 Objectives Monitor
-*   **Building:** Corporate CRM management portals and secure micro-services.
-*   **Learning:** Neural-Network vector embedding pipelines and offline LLM tooling.
-*   **Target:** Optimizing Kotlin backend databases for faster background queries.
-
----
-
-<!-- ==================== ⭐ GITHUB DASHBOARD ==================== -->
-## 📊 GitHub Diagnostics Console
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuiltByAmos-1801&show_icons=true&theme=radical&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=f0f6fc&icon_color=00e5ff" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiltByAmos-1801&theme=radical&hide_border=true&background=161b22&ring=58a6ff&fire=00e5ff&currStreakNum=f0f6fc&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" height="195px" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByAmos-1801&layout=compact&theme=radical&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=f0f6fc&icon_color=00e5ff" height="195px" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 System Trophies &amp; Contribution Snake
-
-<p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=BuiltByAmos-1801&theme=dracula&no-bg=true&no-frame=true" width="100%" alt="Achievements Trophies Grid" />
-</p>
-
-<!-- CONTRIBUTION SNAKE ANIMATION (Pushed by snake.yml Action) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BuiltByAmos-1801/BuiltByAmos-1801/output/github-contribution-grid-snake.svg" alt="Dynamic contribution snake grid animation" width="100%" />
-</p>
-
-<br />
-
-<!-- ==================== ⭐ DYNAMIC WIDGETS & CONNECTS ==================== -->
-## 🌐 System Connections &amp; Metrics
-
-<p align="center">
-  <a href="https://portfolio-nine-wine-pvfkm3d3dg.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/company/builtbyamos" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/918757603560" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
-  </a>
-  <a href="mailto:builtbiamos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=ff007f" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/personal-readme.html?username=BuiltByAmos-1801&color=58a6ff&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor counter" />
-</p>
-
-<!-- DYNAMIC DEV QUOTE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
-</p>
-
-<br />
-
-<!-- FOOTER WITH OVERLAPPING ANIMATED LIQUID WAVES -->
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Footer fluid waves animation" />
-</p>
