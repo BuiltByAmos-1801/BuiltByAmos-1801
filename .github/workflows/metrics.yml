@@ -51,4 +51,3 @@ jobs:
           plugin_stars_limit: 4
 
           plugin_notable: yes
-          plugin_notable_from: organization
