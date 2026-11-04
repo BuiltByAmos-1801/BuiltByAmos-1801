@@ -1,441 +1,85 @@
 <!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          PREMIUM DEVELOPER DASHBOARD PORTFOLIO README - ENTERPRISE EDITION V4
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Built by Amos | GitHub Profile
+  Kept intentionally focused on verified projects and current work.
 -->
 
-<!-- TOP VISUAL HEADER MESH -->
-<p align="center">
-<img src="./assets/header.svg" width="100%" alt="Header Mesh grid" />
+<div align="center">
+
+# AMOS ANAND
+
+### Founder @ Built by Amos · Web Developer · Software Builder
+
+**Building useful digital products, business software and automation tools.**
+
+<a href="https://builtwithamos.great-site.net/">
+  <img src="https://img.shields.io/badge/Portfolio-Built%20by%20Amos-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/BuiltByAmos-1801">
+  <img src="https://img.shields.io/badge/GitHub-BuiltByAmos--1801-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:312e81&height=3" width="100%" alt="" />
+
+</div>
+
+## 👋 About
+
+I'm Amos, the person behind **Built by Amos**. I enjoy turning practical problems into clean, accessible web applications and software tools.
+
+My work currently focuses on:
+
+- **Web development:** responsive websites, dashboards and full-stack applications.
+- **Business software:** CRM-style workflows, partner management and operational tools.
+- **AI & automation:** Python services, content workflows and messaging integrations.
+- **Product building:** exploring SaaS ideas and turning prototypes into useful products.
+
+I value clear user experiences, maintainable code and solutions that solve a real problem.
+
+## 🧰 Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,fastapi,nodejs,kotlin,java,appwrite,supabase,mongodb,mysql,git,github,vscode&perline=9" alt="Technologies used across my projects" />
 </p>
 
-<!-- HERO CARD BANNER -->
-<p align="center">
-<img src="./assets/banner.svg" width="100%" alt="Developer Dashboard Hero Banner" />
-</p>
+*These tools reflect technologies used across my projects and experiments; not every project uses the full stack.*
 
-<!-- CYCLING ROLES TYPING INDICATOR -->
-<p align="center">
-<img src="./assets/typing.svg" width="600" alt="Cycling typing indicators" />
-</p>
+## 🚀 Selected Projects
 
-<br />
+| Project | What it does | Built with |
+|---|---|---|
+| [BuiltByAmos CRM](https://github.com/BuiltByAmos-1801/BuiltByAmos_CRM) | Partner onboarding, lead tracking, commission workflows and admin analytics for the agency | Next.js, TypeScript, Supabase |
+| [AI Automation](https://github.com/BuiltByAmos-1801/AI-Automation) | Subscription-oriented AI content and automation API with Telegram integration | Python, FastAPI, SQLAlchemy |
+| [Business Automation Tool](https://github.com/BuiltByAmos-1801/Business_Automation_Tool) | Business workflows for lead collection, messaging, email and invoice generation | Python, FastAPI, SQLite |
+| [FindMyDoor](https://github.com/BuiltByAmos-1801/FindMyDoor-BuiltByAmos) | Rental marketplace prototype for discovering and managing property listings | React, TypeScript, Vite, Appwrite |
+| [ShivamAutomobile](https://github.com/BuiltByAmos-1801/ShivamAutomobile) | Website and management interface for an automobile workshop and spare-parts business | Next.js, TypeScript, MongoDB |
+| [Social Media Automation Bot](https://github.com/BuiltByAmos-1801/social-media-automation-bot) | Telegram-led social media automation project with API integrations | Python, FastAPI |
 
-<!-- ==================== ⭐ EXECUTIVE DASHBOARD ==================== -->
-## 📊 Executive Dashboard
+## 🧪 More on GitHub
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td width="25%" valign="top">
-<strong>🟢 Current Status</strong><br />
-<span style="font-size: 12px; color: #8b949e;">Active / Online</span>
-</td>
-<td width="25%" valign="top">
-<strong>⏳ Coding Experience</strong><br />
-<span style="font-size: 12px; color: #8b949e;">2+ Years Professional</span>
-</td>
-<td width="25%" valign="top">
-<strong>📂 Repositories</strong><br />
-<span style="font-size: 12px; color: #8b949e;">25+ Built Systems</span>
-</td>
-<td width="25%" valign="top">
-<strong>⭐ System Rating</strong><br />
-<span style="font-size: 12px; color: #8b949e;">A+ Open Source Score</span>
-</td>
-</tr>
-<tr>
-<td width="25%" valign="top">
-<strong>🚀 Availability</strong><br />
-<span style="font-size: 12px; color: #8b949e;">Open to Contracts / Freelance</span>
-</td>
-<td width="25%" valign="top">
-<strong>🤝 Scope Focus</strong><br />
-<span style="font-size: 12px; color: #8b949e;">Enterprise Web &amp; Mobile</span>
-</td>
-<td width="25%" valign="top">
-<strong>🌍 Main Location</strong><br />
-<span style="font-size: 12px; color: #8b949e;">Ranchi, Jharkhand, India</span>
-</td>
-<td width="25%" valign="top">
-<strong>🏢 Branding Entity</strong><br />
-<span style="font-size: 12px; color: #8b949e;">Built By Amos</span>
-</td>
-</tr>
-</table>
+Browse the rest of my work, experiments and demos in the [repositories tab](https://github.com/BuiltByAmos-1801?tab=repositories).
 
-<br />
+## 🎯 What I'm Working Toward
 
-<!-- ==================== ⭐ INTERACTIVE TERMINAL ==================== -->
-## 🖥️ System Terminal Console
+- Growing **Built by Amos** into a practical web and software development studio.
+- Building subscription-based business tools for local businesses.
+- Exploring AI-assisted workflows that reduce repetitive work.
+- Improving product quality through real use, feedback and iteration.
 
-```bash
-AmosAnand@BuiltByAmos-1801:~$ whoami
-Amos Anand (Digital Solution Architect & Software Engineer)
+## 🤝 Connect
 
-AmosAnand@BuiltByAmos-1801:~$ company
-Built By Amos (Technical Digital Agency)
+Have an idea, a project to discuss, or a business workflow that could be simpler?
 
-AmosAnand@BuiltByAmos-1801:~$ mission
-Build secure, zero-bloat, clean-architecture software that generates real business impact.
-
-AmosAnand@BuiltByAmos-1801:~$ current
-Developing high-concurrency CRM portals and clean MVVM Jetpack Compose Android applications.
-```
-
-<br />
-
-<!-- ==================== ⭐ ABOUT ME ==================== -->
-## ⚡ About Me
-
-I do not just write code; I design digital infrastructure that solves real-world bottlenecks. My journey as a **Software Engineer** is defined by a relentless pursuit of engineering excellence, performance optimization, and premium UI/UX aesthetics.
-
-My development philosophy centers on **Clean Architecture (MVVM)**, security protocols, clean code, and zero-bloat scalability. Whether it is building a high-concurrency business automation CRM, tuning a database query, or developing a custom Android utility, I ensure the solution is robust, maintainable, and premium.
+- **Portfolio:** [builtwithamos.great-site.net](https://builtwithamos.great-site.net/)
+- **GitHub:** [@BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)
 
 ---
 
-## 🏢 About Built By Amos
+<div align="center">
 
-**Built By Amos** is a digital solution architect firm dedicated to transforming business problems into scalable, production-grade applications.
+**DESIGN · DEVELOP · GROW**
 
-*   **Our Mission:** To democratize premium web applications and custom automation for businesses, eliminating operational inefficiencies.
-*   **Our Vision:** To lead open-source, mobile application development, and high-performance custom ERP systems.
-*   **Company Values:** High performance, secure database boundaries, visual design integrity, and client operational success.
+*Built with curiosity. Improved with every project.*
 
----
-
-<!-- ==================== ⭐ PREMIUM SERVICES GRID ==================== -->
-## 💼 Premium Services Grid
-
-We architect and deploy custom corporate software infrastructure:
-
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td width="33%" valign="top">
-<strong>💻 Web &amp; Portal Systems</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Premium SaaS web platforms<br />
-• Responsive landing pages<br />
-• Next.js &amp; Tailwind corporate portals<br />
-• E-commerce architectures
-</span>
-</td>
-<td width="33%" valign="top">
-<strong>📱 Native Android Engineering</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Jetpack Compose &amp; Material 3 UI<br />
-• MVVM clean architecture apps<br />
-• Background worker optimizations<br />
-• SDK &amp; system API integrations
-</span>
-</td>
-<td width="34%" valign="top">
-<strong>⚙️ Business Automation</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Custom ERP / CRM consoles<br />
-• Auto-billing &amp; inventory trackers<br />
-• Telegram &amp; Termux tools<br />
-• AI &amp; LLM API orchestrations
-</span>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<strong>🎨 UI/UX &amp; Branding</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• High-fidelity Figma design systems<br />
-• SVG vector assets &amp; animations<br />
-• Custom SVG banners / graphics<br />
-• Brand identity consultations
-</span>
-</td>
-<td width="33%" valign="top">
-<strong>☁️ Cloud &amp; Integrations</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• Firebase backend integrations<br />
-• REST API development &amp; security<br />
-• PostgreSQL &amp; MySQL boundaries<br />
-• Payment gateways &amp; SMS hooks
-</span>
-</td>
-<td width="34%" valign="top">
-<strong>🛡️ Technical Consulting</strong><br />
-<span style="font-size: 12px; color: #8b949e;">
-• High-performance code refactoring<br />
-• Database schema optimization<br />
-• Application maintenance contracts<br />
-• Speed &amp; SEO audits
-</span>
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- ==================== ⭐ TECH ARSENAL ==================== -->
-## 🛠️ Tech Stack &amp; Arsenal
-
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td width="25%" valign="top">
-<strong>💻 Frontend</strong><br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" height="26" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" alt="JS" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" alt="TS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26" height="26" alt="Next" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" height="26" alt="Tailwind" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26" height="26" alt="Bootstrap" />
-</td>
-<td width="25%" valign="top">
-<strong>⚙️ Backend &amp; DB</strong><br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" alt="Node" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26" height="26" alt="Express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26" height="26" alt="PHP" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" height="26" alt="Postgre" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26" height="26" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" height="26" alt="Mongo" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="26" height="26" alt="Firebase" />
-</td>
-<td width="25%" valign="top">
-<strong>📱 Android</strong><br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="26" height="26" alt="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26" height="26" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="26" height="26" alt="Android" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" alt="Python" />
-</td>
-<td width="25%" valign="top">
-<strong>🛠️ Tools &amp; OS</strong><br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" alt="VS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26" height="26" alt="Figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" alt="Git" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" height="26" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26" height="26" alt="Linux" />
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- ==================== ⭐ PROJECT SHOWCASE ==================== -->
-## 📂 Product &amp; Repositories Registry
-
-### 💻 Web Development
-<table width="100%" border="0" cellpadding="8" cellspacing="5">
-<tr>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🏢 Built By Amos Website</h4>
-<p style="font-size: 12px; color: #8b949e;">The main corporate agency portfolio website optimized for conversion and speed.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JS" />
 </div>
-<a href="https://github.com/BuiltByAmos-1801/BuiltByAmosMain" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">💼 Amos Portfolio</h4>
-<p style="font-size: 12px; color: #8b949e;">Personal software developer portfolio showing tech works.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" alt="Next" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/AmosPortfolio" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🎓 Coaching Centre Demo</h4>
-<p style="font-size: 12px; color: #8b949e;">Responsive multi-page corporate coaching academy profile showcase.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/CoachingDemoByAmos" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🎨 Oracle Tattoo</h4>
-<p style="font-size: 12px; color: #8b949e;">Mobile catalog, booking scheduler, and visual tattoo catalog application.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/OracleTattoo" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🏢 DISOM</h4>
-<p style="font-size: 12px; color: #8b949e;">Web project built with HTML.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/DISOM" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🚪 FindMyDoor</h4>
-<p style="font-size: 12px; color: #8b949e;">Web platform built with TypeScript. Private project, details available on request.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
-</div>
-<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">⚙️ MG Engine</h4>
-<p style="font-size: 12px; color: #8b949e;">JavaScript engine project. Private project, details available on request.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JS" />
-</div>
-<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🧩 MG Alpha</h4>
-<p style="font-size: 12px; color: #8b949e;">TypeScript project. Private project, details available on request.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TS" />
-</div>
-<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
-</div>
-</td>
-</tr>
-</table>
-
-<br />
-
-### 📱 Android Applications
-<table width="100%" border="0" cellpadding="8" cellspacing="5">
-<tr>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🎬 Movies Downloader</h4>
-<p style="font-size: 12px; color: #8b949e;">Custom Android app for scraping, searching, and managing video asset downloads.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16" alt="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/MoviesDownloader" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">🅰️ Alpha App</h4>
-<p style="font-size: 12px; color: #8b949e;">Android app built with Kotlin. Private project, details available on request.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16" alt="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" alt="Android" />
-</div>
-<span style="font-size: 12px; color: #8b949e;">🔒 Private Repository</span>
-</div>
-</td>
-</tr>
-</table>
-
-<br />
-
-### ⚙️ Automation, AI &amp; Business Software
-<table width="100%" border="0" cellpadding="8" cellspacing="5">
-<tr>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">💼 BuiltByAmos CRM</h4>
-<p style="font-size: 12px; color: #8b949e;">Secure agency dashboard managing corporate billing, invoices, and clients database.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="16" alt="Node" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" alt="Postgre" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/BuiltByAmos_CRM" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="background-color: #161b22; border: 1.5px solid #30363d; padding: 15px; border-radius: 12px; height: 160px;">
-<h4 style="margin-top: 0; color: #58a6ff;">⚙️ AI &amp; Telegram Automation</h4>
-<p style="font-size: 12px; color: #8b949e;">Custom micro-service scripts for Telegram API bots, Termux diagnostic configurations, and business automation hooks.</p>
-<div style="margin: 8px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="16" height="16" alt="Firebase" />
-</div>
-<a href="https://github.com/BuiltByAmos-1801/Telegram-Automation-Tools" style="font-size: 12px; font-weight: bold; color: #00e5ff; text-decoration: none;">📁 View Repository</a>
-</div>
-</td>
-</tr>
-</table>
-
-<br />
-
-### 📂 Templates, Open Source &amp; Setup Helpers
-*   ⭐ **[BuiltByAmos-1801 Portfolio Core](https://github.com/BuiltByAmos-1801/Portfolio)** - The central hub repository for agency works.
-*   🛠️ **[Termux Setup Error Fixer](https://github.com/BuiltByAmos-1801/TermuxSetupErrorFixer)** - Automated setup diagnostic scripts resolving package management errors.
-*   🏅 **[GitHub Badges Registry](https://github.com/BuiltByAmos-1801/GITHUB_BADGES)** - Dynamic assets repository compiling markdown-ready profile shields.
-
----
-
-<!-- ==================== ⭐ DESIGN SHOWCASE GRID ==================== -->
-## 🖼️ Mobile App &amp; Web Mockup Showcases
-
-### 📱 Android App Features
-*   **Finance Manager:** Dynamic ledger app with localized offline SQLite storage, custom charts, and export to CSV.
-*   **Job Card Tracker:** Client-facing project progress and servicing report logger for industrial hardware depots.
-*   **Attendance App:** QR-based geofenced attendance system using Firebase Realtime Database.
-
-### 💻 Website Showcase Demos
-*   **Coaching Centre Demo Website:** [CoachingDemoByAmos](https://github.com/BuiltByAmos-1801/CoachingDemoByAmos) — Responsive multi-page academy profile.
-*   **Cafe &amp; Gym Demo templates:** [Cafe Demo](#) &amp; [Gym Demo](#) — Minimal, lightweight, fluid responsive local business interfaces.
-
----
-
-<!-- ==================== ⭐ EXPERIENCE TIMELINE ==================== -->
-## 💼 Professional Experience Timeline
-
-*   🏢 **2025 - Present | Founder &amp; Principal Software Architect**
-    *   *Built By Amos (Software Agency)*
-    *   Orchestrating agency product cycles, coding responsive React dashboard layouts, configuring SQL databases, and setting up cloud micro-services.
-*   💻 **2023 - 2024 | Freelance Software Engineer**
-    *   *Remote Contracts*
-    *   Architected camera scanning utilities, Android network auditing apps, and business inventory automation scripts.
-
----
-
-<!-- ==================== ⭐ ENGINEERING PHILOSOPHY ==================== -->
-## 🧠 Engineering &amp; Coding Philosophy
-
-*   **Architecture First:** I write modular, clean code separated by layers (MVVM). UI components should never execute business rules.
-*   **Zero Bloat Performance:** Web apps should load in under 1 second. Less JavaScript, optimized databases, and clean network requests.
-*   **Security by Design:** All client interfaces employ strict validation boundaries, SQL injection barriers, and HTTPS standards.
-*   **Aesthetic Balance:** Coding is a science, but presentation is an art. Beautiful UI/UX increases client product retention.
-
----
-
-<!-- ==================== ⭐ DEVELOPMENT PIPELINE WORKFLOW ==================== -->
-## 🔄 Production Pipeline &amp; Workflow
-
-```mermaid
-graph LR
-  A["1. Discovery / Idea"] --> B["2. Figma UI Design"]
-  B --> C["3. Clean Code Dev"]
-  C --> D["4. Unit Testing"]
-  D --> E["5. Cloud Deployment"]
-  E --> F["6. Maintenance & SLA"]
-  style A fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
-  style B fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
-  style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#f0f6fc
-  style D fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
-  style E fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
-  style F fill:#161b22,stroke:#30363d,stroke-width:2px,color:#f0f6fc
-```
