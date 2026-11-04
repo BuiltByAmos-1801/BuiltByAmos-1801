@@ -102,6 +102,18 @@ A selection of projects from my repositories. Descriptions are based on their pr
   <img src="https://streak-stats.demolab.com?user=BuiltByAmos-1801&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=8B5CF6&currStreakLabel=60A5FA" alt="GitHub contribution streak" width="75%" />
 </div>
 
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BuiltByAmos-1801&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="100%" />
+</div>
+
+## 📡 Recent Development Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByAmos-1801&bg_color=0d1117&color=60a5fa&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+</div>
+
 ## 🐍 Contribution Activity
 
 <div align="center">
