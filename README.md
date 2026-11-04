@@ -40,6 +40,14 @@ I build websites, practical business software and automation projects. I enjoy t
 </div>
 <p align="center"><sub>Technologies shown are drawn from my project work and experiments; individual repositories use different stacks.</sub></p>
 
+## 📈 Live GitHub Metrics
+
+<div align="center">
+  <img src="./metrics.svg" alt="Automatically generated GitHub metrics dashboard for BuiltByAmos-1801" width="100%" />
+</div>
+
+<sub>Generated automatically every day with GitHub Actions. Includes profile overview, repository and community activity, achievements, language distribution, coding habits, commit calendar, starred topics and notable contributions. Metrics become visible after the workflow completes successfully.</sub>
+
 ## 🚀 Featured Projects
 
 A selection of projects from my repositories. Descriptions are based on their project documentation; some are prototypes or works in progress.
