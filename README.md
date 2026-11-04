@@ -1,42 +1,48 @@
-<!-- Built by Amos | Profile README | Project descriptions checked against repository READMEs -->
+<!-- Built by Amos | Animated GitHub Profile README -->
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AMOS%20ANAND&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=FOUNDER%20%40%20BUILT%20BY%20AMOS%20%20%E2%80%A2%20%20WEB%20DEVELOPER%20%20%E2%80%A2%20%20SOFTWARE%20BUILDER&descSize=14&descAlignY=62&color=0:0f172a,45:1e3a8a,100:312e81"
+    src="https://capsule-render.vercel.app/api?type=venom&height=230&text=AMOS%20ANAND&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=FOUNDER%20%40%20BUILT%20BY%20AMOS%20%20%E2%80%A2%20%20WEB%20DEVELOPER%20%20%E2%80%A2%20%20SOFTWARE%20BUILDER&descSize=14&descAlignY=61&color=0:020617,35:172554,70:312e81,100:0f172a"
     width="100%"
-    alt="Amos Anand — Founder at Built by Amos, Web Developer and Software Builder"
+    alt="Animated premium blue-purple banner for Amos Anand"
   />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=850&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+useful+digital+products;Web+Development+%7C+Business+Software;AI+Automation+%7C+SaaS+Experiments;Turning+ideas+into+working+solutions" alt="Animated typing introduction" />
+  </a>
+
   <p>
     <a href="https://builtwithamos.great-site.net/"><img src="https://img.shields.io/badge/PORTFOLIO-BUILT%20BY%20AMOS-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/BuiltByAmos-1801?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-334155?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+    <img src="https://komarev.com/ghpvc/?username=BuiltByAmos-1801&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
+
   <p><i>Design thoughtfully. Develop purposefully. Grow continuously.</i></p>
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
 Hey, I'm **Amos Anand**, founder of **Built by Amos**.
 
 I build websites, practical business software and automation projects. I enjoy taking an idea from a rough concept to a working product—with attention to usability, simple workflows and maintainable code.
 
-- **Web:** responsive websites, dashboards and full-stack applications
-- **Business tools:** CRM workflows, partner management and operational software
-- **Automation:** Python services, Telegram workflows and API integrations
-- **Product experiments:** SaaS concepts and tools for everyday business needs
+- 🌐 **Web development:** responsive websites, dashboards and full-stack applications
+- 🧩 **Business software:** CRM workflows, partner management and operational tools
+- 🤖 **AI & automation:** Python services, Telegram workflows and API integrations
+- 🚀 **Product building:** SaaS concepts and tools for everyday business needs
 
-## Tech I Work With
+## ⚡ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,fastapi,nodejs,appwrite,supabase,mongodb,sqlite,git,github,vscode&perline=9" alt="Technologies used across selected projects" />
 </div>
-
 <p align="center"><sub>Technologies shown are drawn from my project work and experiments; individual repositories use different stacks.</sub></p>
 
-## Featured Work
+## 🚀 Featured Projects
 
-A selection of projects from my repositories. Descriptions below are based on the project documentation; some are prototypes or works in progress.
+A selection of projects from my repositories. Descriptions are based on their project documentation; some are prototypes or works in progress.
 
 <table>
   <tr>
@@ -77,24 +83,42 @@ A selection of projects from my repositories. Descriptions below are based on th
   </tr>
 </table>
 
-## Current Direction
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BuiltByAmos-1801&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByAmos-1801&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BuiltByAmos-1801&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=8B5CF6&currStreakLabel=60A5FA" alt="GitHub contribution streak" width="75%" />
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BuiltByAmos-1801/BuiltByAmos-1801/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through GitHub contribution graph" width="100%" />
+</div>
+
+<sub>The snake animation is generated by this repository's GitHub Actions workflow and published to the `output` branch. It may take the first workflow run to appear.</sub>
+
+## 🎯 Current Direction
 
 - Growing **Built by Amos** as a web and software development studio.
 - Creating useful business tools with simple, subscription-friendly workflows.
 - Exploring AI and automation to reduce repetitive tasks.
 - Learning by shipping projects, testing ideas and improving from feedback.
 
-## Let's Connect
+## 🤝 Let's Connect
 
 If you're building something useful or want to discuss a website, software idea or automation workflow:
 
-- **Portfolio:** [builtwithamos.great-site.net](https://builtwithamos.great-site.net/)
-- **GitHub:** [@BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)
-- **All projects:** [Browse repositories](https://github.com/BuiltByAmos-1801?tab=repositories)
+- 🌐 **Portfolio:** [builtwithamos.great-site.net](https://builtwithamos.great-site.net/)
+- 💻 **GitHub:** [@BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)
+- 📂 **All projects:** [Browse repositories](https://github.com/BuiltByAmos-1801?tab=repositories)
 
 <div align="center">
-  <br/>
-  <b>BUILT BY AMOS</b>
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1e3a8a,100:312e81&height=115&section=footer" width="100%" alt="" />
+  <b>BUILT BY AMOS</b><br/>
   <sub>DESIGN · DEVELOP · GROW</sub>
 </div>
