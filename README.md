@@ -1,85 +1,100 @@
-<!--
-  Built by Amos | GitHub Profile
-  Kept intentionally focused on verified projects and current work.
--->
+<!-- Built by Amos | Profile README | Project descriptions checked against repository READMEs -->
 
 <div align="center">
-
-# AMOS ANAND
-
-### Founder @ Built by Amos · Web Developer · Software Builder
-
-**Building useful digital products, business software and automation tools.**
-
-<a href="https://builtwithamos.great-site.net/">
-  <img src="https://img.shields.io/badge/Portfolio-Built%20by%20Amos-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/BuiltByAmos-1801">
-  <img src="https://img.shields.io/badge/GitHub-BuiltByAmos--1801-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:312e81&height=3" width="100%" alt="" />
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AMOS%20ANAND&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=FOUNDER%20%40%20BUILT%20BY%20AMOS%20%20%E2%80%A2%20%20WEB%20DEVELOPER%20%20%E2%80%A2%20%20SOFTWARE%20BUILDER&descSize=14&descAlignY=62&color=0:0f172a,45:1e3a8a,100:312e81"
+    width="100%"
+    alt="Amos Anand — Founder at Built by Amos, Web Developer and Software Builder"
+  />
+  <p>
+    <a href="https://builtwithamos.great-site.net/"><img src="https://img.shields.io/badge/PORTFOLIO-BUILT%20BY%20AMOS-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/BuiltByAmos-1801?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-334155?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  </p>
+  <p><i>Design thoughtfully. Develop purposefully. Grow continuously.</i></p>
 </div>
-
-## 👋 About
-
-I'm Amos, the person behind **Built by Amos**. I enjoy turning practical problems into clean, accessible web applications and software tools.
-
-My work currently focuses on:
-
-- **Web development:** responsive websites, dashboards and full-stack applications.
-- **Business software:** CRM-style workflows, partner management and operational tools.
-- **AI & automation:** Python services, content workflows and messaging integrations.
-- **Product building:** exploring SaaS ideas and turning prototypes into useful products.
-
-I value clear user experiences, maintainable code and solutions that solve a real problem.
-
-## 🧰 Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,fastapi,nodejs,kotlin,java,appwrite,supabase,mongodb,mysql,git,github,vscode&perline=9" alt="Technologies used across my projects" />
-</p>
-
-*These tools reflect technologies used across my projects and experiments; not every project uses the full stack.*
-
-## 🚀 Selected Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| [BuiltByAmos CRM](https://github.com/BuiltByAmos-1801/BuiltByAmos_CRM) | Partner onboarding, lead tracking, commission workflows and admin analytics for the agency | Next.js, TypeScript, Supabase |
-| [AI Automation](https://github.com/BuiltByAmos-1801/AI-Automation) | Subscription-oriented AI content and automation API with Telegram integration | Python, FastAPI, SQLAlchemy |
-| [Business Automation Tool](https://github.com/BuiltByAmos-1801/Business_Automation_Tool) | Business workflows for lead collection, messaging, email and invoice generation | Python, FastAPI, SQLite |
-| [FindMyDoor](https://github.com/BuiltByAmos-1801/FindMyDoor-BuiltByAmos) | Rental marketplace prototype for discovering and managing property listings | React, TypeScript, Vite, Appwrite |
-| [ShivamAutomobile](https://github.com/BuiltByAmos-1801/ShivamAutomobile) | Website and management interface for an automobile workshop and spare-parts business | Next.js, TypeScript, MongoDB |
-| [Social Media Automation Bot](https://github.com/BuiltByAmos-1801/social-media-automation-bot) | Telegram-led social media automation project with API integrations | Python, FastAPI |
-
-## 🧪 More on GitHub
-
-Browse the rest of my work, experiments and demos in the [repositories tab](https://github.com/BuiltByAmos-1801?tab=repositories).
-
-## 🎯 What I'm Working Toward
-
-- Growing **Built by Amos** into a practical web and software development studio.
-- Building subscription-based business tools for local businesses.
-- Exploring AI-assisted workflows that reduce repetitive work.
-- Improving product quality through real use, feedback and iteration.
-
-## 🤝 Connect
-
-Have an idea, a project to discuss, or a business workflow that could be simpler?
-
-- **Portfolio:** [builtwithamos.great-site.net](https://builtwithamos.great-site.net/)
-- **GitHub:** [@BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)
 
 ---
 
+## About
+
+Hey, I'm **Amos Anand**, founder of **Built by Amos**.
+
+I build websites, practical business software and automation projects. I enjoy taking an idea from a rough concept to a working product—with attention to usability, simple workflows and maintainable code.
+
+- **Web:** responsive websites, dashboards and full-stack applications
+- **Business tools:** CRM workflows, partner management and operational software
+- **Automation:** Python services, Telegram workflows and API integrations
+- **Product experiments:** SaaS concepts and tools for everyday business needs
+
+## Tech I Work With
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,fastapi,nodejs,appwrite,supabase,mongodb,sqlite,git,github,vscode&perline=9" alt="Technologies used across selected projects" />
+</div>
 
-**DESIGN · DEVELOP · GROW**
+<p align="center"><sub>Technologies shown are drawn from my project work and experiments; individual repositories use different stacks.</sub></p>
 
-*Built with curiosity. Improved with every project.*
+## Featured Work
 
+A selection of projects from my repositories. Descriptions below are based on the project documentation; some are prototypes or works in progress.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BuiltByAmos-1801/BuiltByAmos_CRM">BuiltByAmos CRM</a></h3>
+      <p>Partner platform for onboarding, lead submissions, commission tracking, resources and admin workflows.</p>
+      <sub>Next.js · TypeScript · Supabase</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BuiltByAmos-1801/AI-Automation">AI Automation</a></h3>
+      <p>API project for AI-assisted content generation and Telegram-linked subscription and usage workflows.</p>
+      <sub>Python · FastAPI · SQLAlchemy</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BuiltByAmos-1801/Business_Automation_Tool">Business Automation Tool</a></h3>
+      <p>Business workflow backend covering lead collection, email, WhatsApp messaging and invoice generation.</p>
+      <sub>Python · FastAPI · SQLite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BuiltByAmos-1801/FindMyDoor-BuiltByAmos">FindMyDoor</a></h3>
+      <p>Rental marketplace prototype with property discovery, account features and listing-photo storage.</p>
+      <sub>React · TypeScript · Vite · Appwrite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BuiltByAmos-1801/ShivamAutomobile">ShivamAutomobile</a></h3>
+      <p>Automobile workshop and spare-parts business web application with admin and operational features.</p>
+      <sub>Next.js · TypeScript · MongoDB</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BuiltByAmos-1801/social-media-automation-bot">Social Media Automation Bot</a></h3>
+      <p>Telegram-led automation project exploring social posting, channel tools and platform API workflows.</p>
+      <sub>Python · FastAPI · Telegram</sub>
+    </td>
+  </tr>
+</table>
+
+## Current Direction
+
+- Growing **Built by Amos** as a web and software development studio.
+- Creating useful business tools with simple, subscription-friendly workflows.
+- Exploring AI and automation to reduce repetitive tasks.
+- Learning by shipping projects, testing ideas and improving from feedback.
+
+## Let's Connect
+
+If you're building something useful or want to discuss a website, software idea or automation workflow:
+
+- **Portfolio:** [builtwithamos.great-site.net](https://builtwithamos.great-site.net/)
+- **GitHub:** [@BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)
+- **All projects:** [Browse repositories](https://github.com/BuiltByAmos-1801?tab=repositories)
+
+<div align="center">
+  <br/>
+  <b>BUILT BY AMOS</b>
+  <br/>
+  <sub>DESIGN · DEVELOP · GROW</sub>
 </div>
